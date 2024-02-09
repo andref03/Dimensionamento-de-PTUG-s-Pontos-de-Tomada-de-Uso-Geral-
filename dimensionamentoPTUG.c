@@ -25,7 +25,7 @@ int main(){
   
     float d;          //dimensão
     float resto;      //variável p/ ser usada como referência
-    int qtdd_pontos;
+    int qtdd_pontos;  //variável p/ ser usada como referência
     float perimetro = 0;
     int potenciaVA = 0;
     int total;
